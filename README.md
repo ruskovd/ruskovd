@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruskovd
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python
+- 🌱 I’m  learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me dimitar.d.ruskov@gmail.com
 
